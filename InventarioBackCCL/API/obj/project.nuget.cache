@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oOQ9QvS5C3k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david.diaz\\Documents\\Desarrollos 2025\\InventariosCCL\\InventarioBackCCL\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david.diaz\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\david.diaz\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
